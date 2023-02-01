@@ -1,9 +1,6 @@
 //adding event listeners 
 
 const frm = document.getElementById("conform");
-
-
-
 frm.addEventListener("submit",(e) => {
     e.preventDefault();
     alert("Response recorded successfully");
