@@ -66,11 +66,6 @@ a{
     text-decoration: none;
 }
 
-form{
-   display: flex;
-   flex-direction: column;
-   row-gap: 20px;
-}
 #about p{
     text-align: justify;
 }
