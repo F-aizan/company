@@ -1,20 +1,19 @@
-@media only screen and (min-width: 600px){
+@media only screen and (max-width: 600px){
 body{
     height: max-content;
     width: min-content;
-    padding: 100px;
 }
 }
+
     
 main{
     display: flex;
-    width: min-content;
     flex-direction: column;
     row-gap: 50px;
     align-items: center;
 }
 header{
-    width: max-content;
+    width: 100%;
     background: lightblue;
     text-align: center;
     
