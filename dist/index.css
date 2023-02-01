@@ -1,3 +1,4 @@
+
 body{
     height: max-content;
 }
@@ -9,6 +10,7 @@ main{
 }
 
 header{
+    width: 100%;
     background: lightblue;
     text-align: center;
     
@@ -64,6 +66,18 @@ header{
 }
 a{
     text-decoration: none;
+}
+
+#conform{
+    width: fit-content;
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+}
+#query{
+    width: min-content;
+    height: max-content;
+    resize: none;
 }
 
 #about p{
