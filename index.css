@@ -2,7 +2,7 @@
 body{
     height: max-content;
     width: min-content;
-    padding: 60px;
+    padding: 100px;
 }
 }
     
@@ -14,7 +14,7 @@ main{
     align-items: center;
 }
 header{
-    width: 100%;
+    width: max-content;
     background: lightblue;
     text-align: center;
     
