@@ -86,4 +86,6 @@ form{
    column-gap: 50px;
 
 }
-
+#about p{
+    text-align: justify;
+}
